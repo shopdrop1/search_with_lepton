@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/third-parties": "^14.0.4",
+    "@next/third-parties": "^14.2.30",
     "@radix-ui/react-popover": "^1.0.7",
     "@tailwindcss/forms": "^0.5.7",
     "@upstash/ratelimit": "^1.0.0",
